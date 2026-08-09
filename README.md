@@ -1,5 +1,7 @@
 # Scribe
 
+[Download Android App](https://github.com/n06-nitin/scribe-the-note-taker/releases/download/App/app-release.apk)
+
 Record a conversation, get back a clean, professionally formatted note — who said what, summarized, with action items pulled out. Bring your own API keys.
 
 ## What's implemented
